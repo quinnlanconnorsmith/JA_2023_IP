@@ -31,11 +31,11 @@ ggplot(data=actual_camp_diet, aes(x=basin,y= rel_percent, fill = diet_comp))+
   facet_grid(~size)
 
 #Fooling around with pie charts 
-ggplot(data=actual_camp_diet, aes(x="",y= rel_percent, fill = diet_comp2))+
+ggplot(data=camp_diet_final, aes(x="",y= rel_percent, fill = diet_comp2))+
   geom_bar(stat="identity", width=1)+ 
   coord_polar("y", start=0) +
   theme_void() + 
-  facet_grid(~basin)
+  facet_wrap(~basin)
 
 
 +

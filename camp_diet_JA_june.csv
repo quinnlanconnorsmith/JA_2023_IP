@@ -1,0 +1,64 @@
+date,lake,species,length,weight,basin,diet_count,diet_comp,rel_percent,diet_comp2,month 
+6/8/2023,Camp,LMB,233,128,R,1,odanata(nymph),0.008695652,a_invert,6
+6/23/2023,Camp,LMB,349,470,R,3,odanata,0.026086957,a_invert,6
+6/30/2023,Camp,LMB,340,450,R,1,odanata(nymph),0.008695652,a_invert,6
+6/8/2023,Camp,LMB,236,152,R,4,unk_fish,0.034782609,fish,6
+6/8/2023,Camp,LMB,233,128,R,5,unk_fish,0.043478261,fish,6
+6/23/2023,Camp,LMB,250,180,R,7,unk_fish,0.060869565,fish,6
+6/23/2023,Camp,LMB,275,260,R,3,unk_fish,0.026086957,fish,6
+6/23/2023,Camp,LMB,323,370,R,5,unk_fish,0.043478261,fish,6
+6/23/2023,Camp,LMB,251,170,R,6,unk_fish,0.052173913,fish,6
+6/23/2023,Camp,LMB,300,300,R,2,unk_fish,0.017391304,fish,6
+6/23/2023,Camp,LMB,349,470,R,15,unk_fish,0.130434783,fish,6
+6/30/2023,Camp,LMB,269,240,R,2,LMB,0.017391304,fish,6
+6/30/2023,Camp,LMB,340,450,R,1,LMB,0.008695652,fish,6
+6/30/2023,Camp,LMB,299,300,R,10,unk_fish,0.086956522,fish,6
+6/30/2023,Camp,LMB,270,240,R,3,unk_fish,0.026086957,fish,6
+6/30/2023,Camp,LMB,267,200,R,7,unk_fish,0.060869565,fish,6
+6/30/2023,Camp,LMB,364,500,R,5,unk_fish,0.043478261,fish,6
+6/30/2023,Camp,LMB,269,240,R,8,unk_fish,0.069565217,fish,6
+6/30/2023,Camp,LMB,230,120,R,3,unk_fish,0.026086957,fish,6
+6/30/2023,Camp,LMB,250,190,R,3,unk_fish,0.026086957,fish,6
+6/30/2023,Camp,LMB,279,240,R,7,unk_fish,0.060869565,fish,6
+6/30/2023,Camp,LMB,196,80,R,1,unk_fish,0.008695652,fish,6
+6/30/2023,Camp,LMB,270,240,R,2,YEP,0.017391304,fish,6
+6/30/2023,Camp,LMB,267,200,R,1,YEP,0.008695652,fish,6
+6/30/2023,Camp,LMB,269,240,R,3,YEP,0.026086957,fish,6
+6/23/2023,Camp,LMB,333,470,R,2,odanata ,0.017391304,t_invert,6
+6/30/2023,Camp,LMB,267,200,R,1,odanata,0.008695652,t_invert,6
+6/30/2023,Camp,LMB,364,500,R,1,odanata,0.008695652,t_invert,6
+6/30/2023,Camp,LMB,340,450,R,2,odanata,0.017391304,t_invert,6
+6/30/2023,Camp,LMB,340,450,R,1,amphibian ,0.008695652,t_vert,6
+6/20/2023,Camp,LMB,281,232,T,1,chironomidae(adult),0.006410256,a_invert,6
+6/23/2023,Camp,LMB,258,180,T,1,odanata(nymph),0.006410256,a_invert,6
+6/20/2023,Camp,LMB,311,366,T,2,BLG,0.012820513,fish,6
+6/20/2023,Camp,LMB,281,232,T,2,unk_fish,0.012820513,fish,6
+6/23/2023,Camp,LMB,325,350,T,3,LMB,0.019230769,fish,6
+6/23/2023,Camp,LMB,262,220,T,1,unk_fish,0.006410256,fish,6
+6/23/2023,Camp,LMB,245,170,T,12,unk_fish,0.076923077,fish,6
+6/23/2023,Camp,LMB,310,330,T,3,unk_fish,0.019230769,fish,6
+6/23/2023,Camp,LMB,258,180,T,7,unk_fish,0.044871795,fish,6
+6/23/2023,Camp,LMB,358,510,T,1,unk_fish,0.006410256,fish,6
+6/23/2023,Camp,LMB,294,280,T,7,unk_fish,0.044871795,fish,6
+6/23/2023,Camp,LMB,325,350,T,5,unk_fish,0.032051282,fish,6
+6/23/2023,Camp,LMB,313,330,T,2,unk_fish,0.012820513,fish,6
+6/23/2023,Camp,LMB,250,170,T,2,unk_fish,0.012820513,fish,6
+6/23/2023,Camp,LMB,233,130,T,7,unk_fish,0.044871795,fish,6
+6/30/2023,Camp,LMB,350,500,T,1,LMB,0.006410256,fish,6
+6/30/2023,Camp,LMB,281,240,T,2,LMB,0.012820513,fish,6
+6/30/2023,Camp,LMB,265,220,T,1,LMB,0.006410256,fish,6
+6/30/2023,Camp,LMB,313,340,T,2,LMB,0.012820513,fish,6
+6/30/2023,Camp,LMB,249,140,T,5,unk_fish,0.032051282,fish,6
+6/30/2023,Camp,LMB,231,150,T,4,unk_fish,0.025641026,fish,6
+6/30/2023,Camp,LMB,349,470,T,7,unk_fish,0.044871795,fish,6
+6/30/2023,Camp,LMB,255,205,T,58,unk_fish,0.371794872,fish,6
+6/30/2023,Camp,LMB,265,220,T,1,unk_fish,0.006410256,fish,6
+6/30/2023,Camp,LMB,313,340,T,1,unk_fish,0.006410256,fish,6
+6/30/2023,Camp,LMB,285,250,T,8,unk_fish,0.051282051,fish,6
+6/30/2023,Camp,LMB,249,140,T,1,YEP,0.006410256,fish,6
+6/30/2023,Camp,LMB,320,350,T,1,YEP,0.006410256,fish,6
+6/30/2023,Camp,LMB,285,250,T,1,YEP,0.006410256,fish,6
+6/8/2023,Camp,LMB,315,326,T,4,odanata,0.025641026,t_invert,6
+6/23/2023,Camp,LMB,245,170,T,1,mosquito ,0.006410256,t_invert,6
+6/30/2023,Camp,LMB,255,205,T,1,mosquito ,0.006410256,t_invert,6
+6/30/2023,Camp,LMB,349,470,T,1,amphipoda ,0.006410256,t_vert,6

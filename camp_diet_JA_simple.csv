@@ -1,0 +1,10 @@
+lake ,basin,diet_comp2,diet_count,rel_percent
+Camp,R,a_invert,13,0.058558559
+Camp,R,fish,187,0.842342342
+Camp,R,t_vert,2,0.009009009
+Camp,R,t_invert,20,0.09009009
+Camp,T,a_invert,2,0.009433962
+Camp,T,fish,200,0.943396226
+Camp,T,plastic,1,0.004716981
+Camp,T,t_vert,1,0.004716981
+Camp,T,t_invert,8,0.037735849
